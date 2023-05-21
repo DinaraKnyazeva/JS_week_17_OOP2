@@ -1,0 +1,10 @@
+.car-bike {
+  padding: 10px;
+}
+.car-bike__img {
+  width: 300px;
+  height: 150px;
+}
+.car-bike__price {
+  margin-bottom: 20px;
+}
